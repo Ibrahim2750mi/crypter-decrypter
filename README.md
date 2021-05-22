@@ -1,2 +1,3 @@
 # crypter-decrypter
-it can encrypts a given text and d-crypts it.
+it can encrypt ASCII value to un_named value and d-crypts it back, its done using python
+note: it only decrypts the un_named value
